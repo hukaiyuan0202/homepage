@@ -2,22 +2,33 @@
 layout: homepage
 ---
 
-## About Me
+## Biography
 
-I am a Ph.D. student at ...
+I am an incoming Ph.D. student at
+McGill University under the expert guidance of 
+Prof. [Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html).
+Previously, I received my Master of Philosophy degree supervised
+by Dr. [Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/index.html)
+at the Chinese University of Hong Kong, Shenzhen.
+I received my Bachelor of Engineering degree from Queen Mary University of London. My research interests include Multimedia Systems, Virtual Reality, and Wireless Sensing.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Multimedia Systems:** volumetric video system, immersive video streaming
+- **Wireless Sensing:** crowd sensing, LLM-assisted sensing
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## Education
+- <img src="assets/img/sfu.png" style="width: auto;height: 20px;display: inline-block;vertical-align: middle"> **McGill University**
+  - (2025.01-future) Ph.D. in Computer Science
+- <img src="assets/img/cuhk.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **The Chinese University of Hong Kong, Shenzhen**
+  - (2022.09-2024.07) M.Phil. in Computer and Information Engineering 
+- <img src="assets/img/hit.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Queen Mary University of London**
+  - (2018.09-2022.06) B.Eng. in Telecommunications Engineering with Management
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/awards.md %}
+
+{% include_relative _includes/contact.md %}
