@@ -20,7 +20,7 @@ I received my Bachelor of Engineering degree from Queen Mary University of Londo
 ## Education
 - <img src="assets/img/McGill.png" style="width: auto;height: 20px;display: inline-block;vertical-align: middle"> **McGill University**
   - (2025.01-future) Ph.D. in Computer Science
-- <img src="assets/img/CUHKSZ.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **The Chinese University of Hong Kong, Shenzhen**
+- <img src="assets/img/CUHKSZ.jpg" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **The Chinese University of Hong Kong, Shenzhen**
   - (2022.09-2024.07) M.Phil. in Computer and Information Engineering 
 - <img src="assets/img/QMUL.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Queen Mary University of London**
   - (2018.09-2022.06) B.Eng. in Telecommunications Engineering with Management
