@@ -29,6 +29,4 @@ I received my Bachelor of Engineering degree from Queen Mary University of Londo
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/awards.md %}
-
 {% include_relative _includes/contact.md %}
